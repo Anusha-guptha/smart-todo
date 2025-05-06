@@ -22,7 +22,7 @@ A Todo application built using **Node.js**, **React**, and **MongoDB**. It helps
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone [https://github.com/Anusha-guptha/smart-todo.git](https://github.com/Anusha-guptha/smart-todo.git)
 cd smart-todo
 ```
 
